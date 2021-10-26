@@ -1,1 +1,17 @@
-test
+# Hi, I’m clxxiii!
+I’m interested in mostly game dev stuff, my coding skills are rusty but that's why im here to learn! 
+I'm currently studying to get a Bachelor Of Arts in Computer Science aswell.
+I enjoy mostly game-dev stuff, and love playing games aswell!
+## Socials
+- osu!: clxxiii
+- twitter: @clxxiii1
+- twitch: clxxiii
+- youtube: clxxiii
+- tetrio: clxxiii
+- literally anything else: clxxiii
+
+
+<!---
+clxxiii/clxxiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
