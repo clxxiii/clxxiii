@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Nunito+Sans:ital,wght@0,200;0,400;1,200;1,400&family=Nunito:ital,wght@0,200;0,300;0,400;0,600;1,200;1,300;1,400&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400&family=Rubik:wght@400;500&family=Space+Mono&display=swap');
+
+
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background: #030a17;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.text-container {
+  position: absolute;
+  color: white;
+  font-weight: 800;
+  font-size: 300%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+}
+#countdown {
+  font-family: 'Major Mono Display';
+  display: flex;
+  justify-content: center;
+}
+.title {
+
+}
+.countdown-text {
+  font-size: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  margin-bottom: 10px;
+}
+div.img {
+  background: url("https://clxxiii/tournament/src/icon.png");
+  position: absolute;
+}
