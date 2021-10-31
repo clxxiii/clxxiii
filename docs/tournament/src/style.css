@@ -4,6 +4,7 @@
 * {
   padding: 0;
   margin: 0;
+  transition: 1s ease-in-out;
 }
 body {
   background: #030a17;
@@ -11,25 +12,61 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  overflow: hidden;
+}
+.slide {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: 0;
 }
 .text-container {
   position: absolute;
   color: white;
   font-weight: 800;
-  font-size: 300%;
+  font-size:  84px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   z-index: 10;
+  gap: 100px;
 }
 #countdown {
   font-family: 'Major Mono Display';
+  font-size: 125%;
   display: flex;
   justify-content: center;
 }
 .title {
+  font-family: 'Raleway';
+}
+.background-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  z-index: -1;
+}
+.sliding-background {
+  background: url("https://i.imgur.com/yGY6rSV.png");
+  height: 3840px;
+  width: 3840px;
+  right: 0px;
+  background-repeat: repeat-x;
+  filter: blur(5px);
+  animation: slide 5s linear infinite;
+}
 
+@keyframes slide{
+  0% {
+    transform: translate3d(-128px, 0, 0);
+  }
+  100% {
+    transform: translate3d(0, -128px, 0);
+  }
 }
 .countdown-text {
   font-size: 12px;
@@ -39,6 +76,51 @@ body {
   margin-bottom: 10px;
 }
 div.img {
-  background: url("https://clxxiii/tournament/src/icon.png");
+  background: url("https://clxxiii.dev/tournament/src/icon.png");
+  background-size: cover;
+  width: 600px;
+  height: 600px;
   position: absolute;
+  transition: 1s ease-in-out;
+  filter: opacity(0.3) blur(5px)
+}
+
+@keyframes shake {
+  0% {
+    transform: translate(0px, 0px)
+  }
+  20% {
+    transform: translate(-10px, -10px)
+  }
+  40% {
+    transform: translate(-5px, 0px)
+  }
+  60% {
+    transform: translate(-5px, -10px)
+  }
+  80% {
+    transform: translate(10px, 0px)
+  }
+  100% {
+    transform: translate(0px, 0px)
+  }
+}
+@keyframes move-up {
+  0% {
+    transform: translateY(0px);
+  }
+  25% {
+    transform: translateY(10vh);
+  }
+  100% {
+    transform: translateY(-200vh);
+  }
+}
+@keyframes unblur {
+  0% {
+    filter: opacity(0.3) blur(5px)
+  }
+  100% {
+    filter: opacity(1) blur(0)
+  }
 }
