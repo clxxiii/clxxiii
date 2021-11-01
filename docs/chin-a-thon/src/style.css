@@ -1,0 +1,83 @@
+html {
+    padding: 0;
+    margin: 0;
+}
+
+.wrapper {
+    margin: 0;
+    width: 60%;
+    min-width: 800px;
+    background-color: #0e0114;
+    box-shadow: 0 0 20px rgb(29, 2, 31);
+}
+
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #111011;
+    color: white;
+    font-family: 'Balsamiq Sans';
+}
+
+.title-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 64px;
+    padding-bottom: 0px;
+    background-color: #782ca5;
+}
+
+
+@keyframes spin {
+    to {transform: rotate(360deg)}
+}
+.title {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    min-width: 600px;
+    padding: 50px;
+    background-color: #411755;
+    overflow: hidden;
+}
+
+.title text {
+    z-index: 10;
+}
+.title::before {
+    content: '';
+    position: absolute;
+    width: 130%;
+    min-height: 730px;
+    height: 70vh;
+    background: linear-gradient(#FFFFFF 15%,#782ca5 50%,#FFFFFF 85%);
+    animation: spin 2s linear infinite;
+}
+
+.title::after {
+    content: '';
+    position: absolute;
+    inset: 4px;
+    background: #411755;
+}
+
+.spacer {
+    aspect-ratio: 960/300;
+    padding: 0;
+    min-width: 800px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+
+.title-spacer {
+    background-image: url(./img/layered-waves.svg);
+}
