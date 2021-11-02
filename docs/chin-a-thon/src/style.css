@@ -114,5 +114,6 @@ section.sub-goals {
 .sub-goals div {
     margin: 0;
     margin-bottom: 50px;
+    font-size: 18px;
     background-color: #bd0e54;
 }
