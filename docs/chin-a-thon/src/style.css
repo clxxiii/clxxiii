@@ -4,11 +4,12 @@
 }
 
 .wrapper {
-    width: 1000px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    min-width: 800px;
+    min-width: 1500px;
+    width: 80%;
+    max-width: 100%;
     background-color: #0e0114;
     box-shadow: 0 0 20px rgb(29, 2, 31);
 }
@@ -30,7 +31,7 @@ body {
     justify-content: center;
     align-items: center;
     width: 100%;
-    font-size: 64px;
+    font-size: 128px;
     padding-bottom: 0px;
     background-color: #782ca5;
 }
@@ -88,7 +89,9 @@ body {
 .timer-spacer {
     background-image: url(./img/layered-waves-2.svg);
 }
-
+.goals-spacer {
+    background-image: url(./img/layered-waves-3.svg);
+}
 
 .timer-rules, .sub-goals div {
     margin-top: -155px;
@@ -103,6 +106,7 @@ body {
 }
 
 section.sub-goals {
+    margin: -10% 0;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -114,6 +118,17 @@ section.sub-goals {
 .sub-goals div {
     margin: 0;
     margin-bottom: 50px;
-    font-size: 18px;
     background-color: #bd0e54;
+}
+
+.live {
+    display: flex;
+    text-shadow: 2px 2px 2px black;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    font-size: 24px;
+    justify-content: center;
+    background: #065a82;
+    width: 100%
 }
