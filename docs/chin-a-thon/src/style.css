@@ -137,6 +137,17 @@ section.sub-goals {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    width: 100%;
     margin-bottom: 50px;
+    width: 100%;
+}
+iframe {
+    height: 500px
+}
+
+#chat_embed {
+    width: 20%
+}
+
+#player_embed {
+    width: 70%
 }
