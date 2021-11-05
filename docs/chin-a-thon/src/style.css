@@ -7,7 +7,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    min-width: 1500px;
+    min-width: 1000px;
     width: 80%;
     max-width: 100%;
     background-color: #0e0114;
@@ -31,7 +31,7 @@ body {
     justify-content: center;
     align-items: center;
     width: 100%;
-    font-size: 128px;
+    font-size: 84px;
     padding-bottom: 0px;
     background-color: #782ca5;
 }
@@ -46,7 +46,7 @@ body {
     align-items: center;
     justify-content: center;
     margin-top: 30px;
-    min-width: 600px;
+    min-width: 400px;
     padding: 50px;
     background-color: #411755;
     overflow: hidden;
@@ -85,7 +85,6 @@ body {
 .title-spacer {
     background-image: url(./img/layered-waves.svg);
 }
-
 .timer-spacer {
     background-image: url(./img/layered-waves-2.svg);
 }
@@ -122,6 +121,7 @@ section.sub-goals {
 }
 
 .live {
+    margin-top: -50px;
     display: flex;
     text-shadow: 2px 2px 2px black;
     flex-direction: column;
@@ -131,4 +131,12 @@ section.sub-goals {
     justify-content: center;
     background: #065a82;
     width: 100%
+}
+
+.stream-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    margin-bottom: 50px;
 }
