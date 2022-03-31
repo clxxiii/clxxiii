@@ -10,6 +10,11 @@ I enjoy mostly game-dev stuff, and love playing games aswell!
 - tetrio: clxxiii
 - literally anything else: clxxiii
 
+# Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=clxxiii&bg_color=60,0EB8B9,8cffc6&text_color=FFFFFFCC&title_color=FFFFFF&hide_border=true&border_radius=25)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=clxxiii&bg_color=60,0EB8B9,8cffc6&text_color=FFFFFFCC&title_color=FFFFFF&hide_border=true&border_radius=25) 
 
 <!---
 clxxiii/clxxiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
