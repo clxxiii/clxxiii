@@ -11,7 +11,11 @@ I enjoy making little coding projects, and love playing games aswell!
 - literally anything else: clxxiii
 
 # Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=clxxiii&bg_color=60,0EB8B9,8cffc6&text_color=FFFFFFCC&title_color=FFFFFF&hide_border=true&border_radius=25)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=clxxiii&bg_color=60,26b0b9,3ad36d&text_color=FFFFFFCC&title_color=FFFFFF&hide_border=true&border_radius=25)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=clxxiii&bg_color=60,26b0b9,3ad36d&text_color=FFFFFFCC&title_color=FFFFFF&hide_border=true&border_radius=25)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=clxxiii&bg_color=60,26b0b9,3ad36d&text_color=FFFFFFCC&title_color=FFFFFF&hide_border=true&border_radius=25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 clxxiii/clxxiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
