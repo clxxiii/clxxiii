@@ -62,6 +62,8 @@ I enjoy making little coding projects, and love playing games aswell!
 
 ![A Trophies](https://github-profile-trophy.vercel.app/?username=clxxiii&theme=nord&margin-w=15&no-frame=true&rank=A,AA,AAA)
 
+![B Trophies](https://github-profile-trophy.vercel.app/?username=clxxiii&theme=nord&margin-w=15&no-frame=true&rank=B)
+
 # Stats
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=clxxiii&bg_color=60,26b0b9,3ad36d&text_color=FFFFFFCC&title_color=FFFFFF&hide_border=true&border_radius=25&custom_title=clxxiii's%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
