@@ -54,6 +54,14 @@ I enjoy making little coding projects, and love playing games aswell!
 ![.NET](https://img.shields.io/badge/.NET-%23EEE.svg?style=for-the-badge&logo=.net&color=ebffff&logoColor=512BDA)
 ![Supabase](https://img.shields.io/badge/supabase-%23EEE.svg?style=for-the-badge&logo=supabase&color=ebffff)
 
+
+# Trophy Shelf
+![SECRET Trophies](https://github-profile-trophy.vercel.app/?username=clxxiii&theme=nord&margin-w=15&no-frame=true&rank=SECRET)
+
+![S Trophies](https://github-profile-trophy.vercel.app/?username=clxxiii&theme=nord&margin-w=15&no-frame=true&rank=S,SS,SSS)
+
+![A Trophies](https://github-profile-trophy.vercel.app/?username=clxxiii&theme=nord&margin-w=15&no-frame=true&rank=A,AA,AAA)
+
 # Stats
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=clxxiii&bg_color=60,26b0b9,3ad36d&text_color=FFFFFFCC&title_color=FFFFFF&hide_border=true&border_radius=25&custom_title=clxxiii's%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
