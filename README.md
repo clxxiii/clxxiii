@@ -1,6 +1,6 @@
 # Hi!
 
-Most of the coding I do is related to game development, my coding ![5](https://github.com/clxxiii/clxxiii/blob/main/skill-boxes/x28/5.png?raw=true)s are rusty but that's why im here to learn!
+Most of the coding I do is related to game development, my coding skills are a little rusty but that's why im here to learn!
 I'm currently studying to get a Bachelor Of Arts in Computer Science aswell.
 I enjoy making little coding projects, and love playing games aswell!
 
@@ -12,8 +12,6 @@ I enjoy making little coding projects, and love playing games aswell!
 [![youtube](https://img.shields.io/badge/youtube-%23EEE.svg?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000)](https://clxxiii.dev/youtube)
 [![tetrio](https://img.shields.io/badge/tetrio-%23EEE.svg?style=for-the-badge&color=2f51aa)](https://ch.tetr.io/u/clxxiii)
 [![osu](https://img.shields.io/badge/osu!-%23EEE.svg?style=for-the-badge&logo=osu&logoColor=white&color=FF66AA)](https://clxxiii.dev/osu)
-
-## Current Tech Stack
 
 ## Software I use and recommend
 
