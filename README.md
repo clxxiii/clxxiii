@@ -1,8 +1,16 @@
+
+
 # Hi!
 
 Most of the coding I do is related to game development, my coding skills are a little rusty but that's why im here to learn!
 I'm currently studying to get a Bachelor Of Arts in Computer Science aswell.
 I enjoy making little coding projects, and love playing games aswell!
+
+<div align="center">
+  <b>I'm participting in Advent of Code!</b>
+  
+  [![Advent of Code](https://github-readme-stats.vercel.app/api/pin/?username=clxxiii&repo=advent-of-code&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true)](https://github.com/clxxiii/advent-of-code)
+</div>
 
 ## Socials
 
@@ -13,7 +21,6 @@ I enjoy making little coding projects, and love playing games aswell!
 [![tetrio](https://img.shields.io/badge/tetrio-%23EEE.svg?style=for-the-badge&color=2f51aa)](https://ch.tetr.io/u/clxxiii)
 [![osu](https://img.shields.io/badge/osu!-%23EEE.svg?style=for-the-badge&logo=osu&logoColor=white&color=FF66AA)](https://clxxiii.dev/osu)
 
-[![Advent of Code](https://github-readme-stats.vercel.app/api/pin/?username=clxxiii&repo=advent-of-code&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true)](https://github.com/clxxiii/advent-of-code)
 ## Software I use and recommend
 
 | Tool                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Description                               |
