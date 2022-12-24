@@ -6,12 +6,6 @@ Most of the coding I do is related to game development, my coding skills are a l
 I'm currently studying to get a Bachelor Of Arts in Computer Science aswell.
 I enjoy making little coding projects, and love playing games aswell!
 
-<div align="center">
-  <b>I'm participting in Advent of Code!</b>
-  
-  [![Advent of Code](https://github-readme-stats.vercel.app/api/pin/?username=clxxiii&repo=advent-of-code&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true)](https://github.com/clxxiii/advent-of-code)
-</div>
-
 ## Socials
 
 [![twitch](https://img.shields.io/badge/twitch-%23EEE.svg?style=for-the-badge&logo=twitch&logoColor=white&color=9146FF)](https://clxxiii.dev/twitch)
