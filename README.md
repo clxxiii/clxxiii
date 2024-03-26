@@ -1,8 +1,8 @@
 # Hi!
 
 Most of the coding I do is related to game development, my coding skills are a little rusty but that's why im here to learn!
-I'm currently studying to get a Bachelor Of Arts in Computer Science aswell.
-I enjoy making little coding projects, and love playing games aswell!
+I'm currently studying to get a Bachelor of Science in Computer Science as well.
+I enjoy making little coding projects, and love playing games too!
 
 ## Socials
 
