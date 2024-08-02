@@ -14,21 +14,7 @@ and my side projects!
 [![tetrio](https://img.shields.io/badge/tetrio-%23EEE.svg?style=for-the-badge&color=2f51aa)](https://ch.tetr.io/u/clxxiii)
 [![osu](https://img.shields.io/badge/osu!-%23EEE.svg?style=for-the-badge&logo=osu&logoColor=white&color=FF66AA)](https://clxxiii.dev/osu)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=clxxiii&include_all_commits=true&rank_icon=percentile&custom_title=clxxiii%27s%20Github%20Stats&show_icons=true&hide_border=true&theme=transparent&text_color=cdd6f4&icon_color=74c7ec&title_color=89dceb)](https://github.com/anuraghazra/github-readme-stats) [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=clxxiii&layout=compact&custom_title=Most%20Used%20Languages%20in%20the%20last%207%20days&theme=transparent&hide_border=true&text_color=cdd6f4&icon_color=74c7ec&title_color=89dceb)](https://github.com/anuraghazra/github-readme-stats)
-
-## Software I use and recommend
-
-| Tool                                                                                                                                                                        | Description                               |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
-| ![Arch/Endeavour](https://img.shields.io/badge/Arch%2FEndeavour-%23EEE.svg?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=1793D1&color=black&logoWidth=40)   | My main operating systems                 |
-| ![VSCode](https://img.shields.io/badge/VS%20Code-%23EEE.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC&color=black&logoWidth=40)         | Good ole' code editor                     |
-| ![Neovim](https://img.shields.io/badge/Neovim-%23EEE.svg?style=for-the-badge&logo=neovim&logoColor=white&labelColor=57A143&color=black&logoWidth=40)                        | Started using it recently and love it     |
-| ![Overleaf](https://img.shields.io/badge/Overleaf-%23EEE.svg?style=for-the-badge&logo=overleaf&logoColor=white&labelColor=47A141&color=black&logoWidth=40)                  | Handy web-based latex editor              |
-| ![Vite](https://img.shields.io/badge/Vite-%23EEE.svg?style=for-the-badge&logo=vite&logoColor=white&labelColor=646CFF&color=black&logoWidth=40)                              | Incredibly useful bundler                 |
-| ![Digitalocean Droplets](https://img.shields.io/badge/Droplets-%23EEE.svg?style=for-the-badge&logo=digitalocean&logoColor=white&labelColor=0080FF&color=black&logoWidth=40) | My main hosting service                   |
-| ![Todoist](https://img.shields.io/badge/Todoist-%23EEE.svg?style=for-the-badge&logo=todoist&logoColor=white&labelColor=E44332&color=black&logoWidth=40)                     | Incredible todo list app                  |
-| ![Obsidian](https://img.shields.io/badge/Obsidian-%23EEE.svg?style=for-the-badge&logo=obsidian&logoColor=white&labelColor=483699&color=black&logoWidth=40)                  | Fantastic note taking/journaling app      |
-| ![Flameshot](https://img.shields.io/badge/Flameshot-%23EEE.svg?style=for-the-badge&logo=fireship&logoColor=white&labelColor=483699&color=black&logoWidth=40)                | Handy screenshot tool for Linux & Windows |
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=clxxiii&include_all_commits=true&rank_icon=percentile&custom_title=clxxiii%27s%20Github%20Stats&show_icons=true&hide_border=true&theme=transparent&text_color=cdd6f4&icon_color=74c7ec&title_color=89dceb)](https://github.com/anuraghazra/github-readme-stats) [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=clxxiii&layout=compact&custom_title=Most%20Used%20Languages%20in%20the%20last%207%20days&theme=transparent&hide_border=true&text_color=cdd6f4&icon_color=74c7ec&title_color=89dceb)](https://wakatime.com/clxxiii)
 
 # Tool Experience
 
