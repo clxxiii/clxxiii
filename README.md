@@ -5,7 +5,17 @@ and I do lots of hobby work on the side. This account holds repos for both my cl
 and my side projects!
 
 
-# Socials
+# Stats & Socials
+
+[![wakatime](https://wakatime.com/badge/user/6d0358cb-38fe-4949-92b3-145a9c882a73.svg?style=for-the-badge)](https://wakatime.com/@6d0358cb-38fe-4949-92b3-145a9c882a73)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=clxxiii&include_all_commits=true&rank_icon=percentile&custom_title=clxxiii%27s%20Github%20Stats&show_icons=true&hide_border=true&theme=transparent&text_color=cdd6f4&icon_color=74c7ec&title_color=89dceb">
+</a>
+<a href="https://wakatime.com/clxxiii">
+  <img align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=clxxiii&layout=compact&custom_title=Most%20Used%20Languages%20in%20the%20last%207%20days&theme=transparent&hide_border=true&text_color=cdd6f4&icon_color=74c7ec&title_color=89dceb">
+</a>
+
 
 [![twitch](https://img.shields.io/badge/twitch-%23EEE.svg?style=for-the-badge&logo=twitch&logoColor=white&color=9146FF)](https://clxxiii.dev/twitch)
 [![twitter](https://img.shields.io/badge/twitter-%23EEE.svg?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)](https://clxxiii.dev/twitter)
@@ -13,8 +23,6 @@ and my side projects!
 [![youtube](https://img.shields.io/badge/youtube-%23EEE.svg?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000)](https://clxxiii.dev/youtube)
 [![tetrio](https://img.shields.io/badge/tetrio-%23EEE.svg?style=for-the-badge&color=2f51aa)](https://ch.tetr.io/u/clxxiii)
 [![osu](https://img.shields.io/badge/osu!-%23EEE.svg?style=for-the-badge&logo=osu&logoColor=white&color=FF66AA)](https://clxxiii.dev/osu)
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=clxxiii&include_all_commits=true&rank_icon=percentile&custom_title=clxxiii%27s%20Github%20Stats&show_icons=true&hide_border=true&theme=transparent&text_color=cdd6f4&icon_color=74c7ec&title_color=89dceb)](https://github.com/anuraghazra/github-readme-stats) [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=clxxiii&layout=compact&custom_title=Most%20Used%20Languages%20in%20the%20last%207%20days&theme=transparent&hide_border=true&text_color=cdd6f4&icon_color=74c7ec&title_color=89dceb)](https://wakatime.com/clxxiii)
 
 # Tool Experience
 
