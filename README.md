@@ -1,10 +1,11 @@
-# Hi!
+# 👋 Hello!
 
-Most of the coding I do is related to game development, my coding skills are a little rusty but that's why im here to learn!
-I'm currently studying to get a Bachelor of Science in Computer Science as well.
-I enjoy making little coding projects, and love playing games too!
+I'm a student currently studying to get a Bachelor of Science in Computer Science,
+and I do lots of hobby work on the side. This account holds repos for both my classwork
+and my side projects!
 
-## Socials
+
+# Socials
 
 [![twitch](https://img.shields.io/badge/twitch-%23EEE.svg?style=for-the-badge&logo=twitch&logoColor=white&color=9146FF)](https://clxxiii.dev/twitch)
 [![twitter](https://img.shields.io/badge/twitter-%23EEE.svg?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)](https://clxxiii.dev/twitter)
@@ -12,6 +13,8 @@ I enjoy making little coding projects, and love playing games too!
 [![youtube](https://img.shields.io/badge/youtube-%23EEE.svg?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000)](https://clxxiii.dev/youtube)
 [![tetrio](https://img.shields.io/badge/tetrio-%23EEE.svg?style=for-the-badge&color=2f51aa)](https://ch.tetr.io/u/clxxiii)
 [![osu](https://img.shields.io/badge/osu!-%23EEE.svg?style=for-the-badge&logo=osu&logoColor=white&color=FF66AA)](https://clxxiii.dev/osu)
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=clxxiii&include_all_commits=true&rank_icon=percentile&custom_title=clxxiii%27s%20Github%20Stats&show_icons=true&hide_border=true&theme=transparent&text_color=cdd6f4&icon_color=74c7ec&title_color=89dceb)](https://github.com/anuraghazra/github-readme-stats) [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=clxxiii&layout=compact&custom_title=Most%20Used%20Languages%20in%20the%20last%207%20days&theme=transparent&hide_border=true&text_color=cdd6f4&icon_color=74c7ec&title_color=89dceb)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Software I use and recommend
 
@@ -77,11 +80,5 @@ I enjoy making little coding projects, and love playing games too!
 ![A Trophies](https://github-profile-trophy.vercel.app/?username=clxxiii&theme=nord&margin-w=15&no-frame=true&rank=A,AA,AAA)
 
 ![B Trophies](https://github-profile-trophy.vercel.app/?username=clxxiii&theme=nord&margin-w=15&no-frame=true&rank=B)
-
-# Stats
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=clxxiii&hide_border=true&border_radius=25&custom_title=clxxiii's%20Github%20Stats&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=clxxiii&hide_border=true&border_radius=25&layout=compact&custom_title=Most%20Used%20Languages%20in%20the%20last%207%20days&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
 [Flameshot]: https://img.shields.io/badge/Flameshot-%23EEE.svg?style=for-the-badge&logo=data:image/png;base64,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&logoColor=white&labelColor=763983&color=black&logoWidth=40
